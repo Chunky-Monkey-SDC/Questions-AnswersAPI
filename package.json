@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Chunky-Monkey-SDC/Questions-AnswersAPI#readme",
   "dependencies": {
-    "node": "^16.6.1"
+    "express": "^4.17.1",
+    "node": "^16.6.1",
+    "pg": "^8.7.1",
+    "pgtools": "^0.3.2"
   }
 }
